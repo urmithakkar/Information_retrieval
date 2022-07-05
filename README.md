@@ -1,2 +1,3 @@
 # Information_retrieval
-Information Retrieval project
+
+A search engine using BM25 information retrieval .
